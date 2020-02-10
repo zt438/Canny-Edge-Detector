@@ -1,0 +1,7 @@
+binary_edge_map.bmp
+gaussian_smooth.bmp
+gradient_magnitude.bmp
+horizontal_gradient.bmp
+post_suppression_magnitude.bmp
+vertical_gradient.bmp
+
